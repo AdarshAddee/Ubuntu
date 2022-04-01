@@ -14,7 +14,7 @@ apt update && apt upgrade -y && apt install git -y && git clone https://github.c
 
 # Usage
 
-``ubuntu -u`` - Update and install necessary packages
+``ubuntu -u`` - Update & install pkg
 
 ``ubuntu -i`` - Install ubuntu in termux
 
