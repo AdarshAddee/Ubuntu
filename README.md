@@ -11,14 +11,15 @@ apt update && apt upgrade -y && apt install git -y && git clone https://github.c
 
 
 # Usage
+Follow these commands one by one in the given order:
 
-``ubuntu -u`` - Update & install pkg
+* ``ubuntu -u`` - Update & install pkg
 
-``ubuntu -i`` - Install ubuntu in termux
+* ``ubuntu -i`` - Install ubuntu in termux
 
-``ubuntu -l`` - Login in Ubuntu
+* ``ubuntu -l`` - Login in Ubuntu
 
-``ubuntu -h`` - Help
+* ``ubuntu -h`` - Help
 
  
 # Support
