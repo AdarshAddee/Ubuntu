@@ -2,7 +2,9 @@
 
 > This tool will help you to install Ubuntu in your device or you can say in your termux. This will simple install Ubuntu in your termux. You can also use more option with the use of some arguments.  
 
-[![Watch the video](https://i.ytimg.com/an_webp/IBgYA-dW7ds/mqdefault_6s.webp?du=3000&sqp=CO7vy5UG&rs=AOn4CLB9Ub4_FgS4YDAreu3QatXQv-7thg)](https://www.youtube.com/watch?v=IBgYA-dW7ds)
+# Watch Video
+[![Watch the video](https://img.youtube.com/vi/IBgYA-dW7ds/maxresdefault.jpg
+)](https://www.youtube.com/watch?v=IBgYA-dW7ds)
 
 # Installation
 
